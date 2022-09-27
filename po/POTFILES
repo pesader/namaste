@@ -1,0 +1,6 @@
+data/dev.lkcamp.Namaste.desktop.in
+data/dev.lkcamp.Namaste.appdata.xml.in
+data/dev.lkcamp.Namaste.gschema.xml
+src/main.c
+src/namaste-window.c
+src/namaste-window.ui

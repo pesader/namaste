@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="namaste">
+	<schema id="dev.lkcamp.Namaste" path="/dev/lkcamp/Namaste/">
+	</schema>
+</schemalist>
